@@ -57,7 +57,7 @@ ___Three underscore same as comes with combined bold and italic___
  ```
 ## link :
 ### README.md details using this to go to link website :
- [README.md details](https://www.youtube.com/watch?v=_PPWWRV6gbA)  
+ [README.md details utube video](https://www.youtube.com/watch?v=_PPWWRV6gbA)  
             or  
 ### for direct link is added
  <https://www.youtube.com/watch?v=_PPWWRV6gbA>
