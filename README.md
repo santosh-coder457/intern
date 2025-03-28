@@ -63,7 +63,7 @@ ___Three underscore same as comes with combined bold and italic___
  <https://www.youtube.com/watch?v=_PPWWRV6gbA>
 
  ## image :
- ![lion image](lion-animal-predator-big-cat-40803.jpeg)
+ ![lion image](/lion%20image/Federico_Veronesi_Lions-cover-image-e359a4e.webp)
 
 ## blockquotes :
 
